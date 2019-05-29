@@ -1,0 +1,2 @@
+# clickeasy
+GitHub Pages
